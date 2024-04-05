@@ -4,22 +4,14 @@ Pymaceuticals
 This repository contains a data visualiztion practice of animal study through application of Python Matplotlib. Practice of statistical methods as well as various types of plots are included in the Jupyter Notebook file-pymaceuticals_1.ipynb.
 
 Table Content
-1. Background
-2. Prepare the Data
-3. Generate Summary Statistics
-4. Create Bar Charts and Pie Charts
-5. Calculate Quartiles, Find Outliers
-6. Create a Box Plot
-7. Create a Line Plot and a Scatter Plot
-8. Calculate Correlation and Regression
-
-
-
-
-
-
-
-
+-1. Background
+-2. Prepare the Data
+-3. Generate Summary Statistics
+-4. Create Bar Charts and Pie Charts
+-5. Calculate Quartiles, Find Outliers
+-6. Create a Box Plot
+-7. Create a Line Plot and a Scatter Plot
+-8. Calculate Correlation and Regression
 
 1. Background
 A new pharmaceutical company that specializes in anti-cancer medications. Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
